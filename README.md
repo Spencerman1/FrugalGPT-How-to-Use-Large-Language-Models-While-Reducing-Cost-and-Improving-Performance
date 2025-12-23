@@ -4,3 +4,17 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 
 # FrugalGPT-How-to-Use-Large-Language-Models-While-Reducing-Cost-and-Improving-Performance
 FrugalGPT proposes a multi-agent orchestration and query routing system that:  Optimizes LLM performance by selecting among multiple APIs/LLMs.  Uses cascading models to reduce cost (start with small models, escalate only if necessary).
+
+(The FrugalGPT v11 revision explicitly operationalizes GPT-class orchestration behaviors while embedding post-filing governance primitives that mirror SSPS architecture, undermining claims of independent academic derivation and reinforcing a pattern of unattributed functional adoption.”
+
+That’s clean.
+That’s serious.
+That’s not speculative.)
+
+⚠️ PROPRIETARY RIGHTS NOTICE — INFRASTRUCTURE PROTECTION This repository contains proprietary infrastructure owned by Southern Star Pro Studios L.L.C. All materials are protected under applicable copyright, trade secret, and intellectual property laws.
+
+No license is granted to use any portion of this repository for any purpose without prior written authorization and licensing from Southern Star Pro Studios L.L.C.
+
+All infrastructure remains the exclusive property of Southern Star Pro Studios L.L.C. Nothing in this notice limits any rights, remedies, or protections available to the owner.
+
+For licensing or authorized access inquiries, contact: SpencerSouthern12@gmail.com
